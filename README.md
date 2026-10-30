@@ -6,8 +6,6 @@
 
 ---
 
-### 🛠 Projects & Open Source
-
 - **[nature-collect (拾野)](https://github.com/Wenston-dev/nature-collect)**  
   拍下路上遇见的鸟、花、草木和小动物，端侧 AI 抠成贴纸并识别收进图鉴的自然收集 Android App。
 
